@@ -1,1 +1,1 @@
-# Detecting-Depression-And-Suicidal-possibility-With-A-Person
+# Detecting Depression And Suicidal Possibility With A Person With Deep Learning
