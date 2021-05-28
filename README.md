@@ -1,1 +1,3 @@
 # Detecting Depression And Suicidal Possibility With A Person With Deep Learning
+<img src="https://www.katiereed.com/wp-content/uploads/2020/10/suicide-prevention.jpg" width="950" height="650">
+<p>Depression is one of the most common mental illnesses in the world, WHO estimates that more than 300 million people worldwide suffer from depression. Depression is also a leading reason behind people commenting suicide. To tackle this problem and prevent it from happening here I have created a Natura Language System powered by deep learning that identifies depression and the suicidal chance for a person.</p>
