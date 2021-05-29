@@ -43,3 +43,5 @@ cross-entropy as the loss function to penalize the model more when it makes a fa
   <li><b>Accuracy Test Data: 76%</b></li>
   <li><b>Loss Test Data: 0.57</b></li>
 </ul>
+<h2>Conclusion</h2>
+<p>Here in this project I have created a Natura Language System powered by Deep Learning that identifies depression and the suicidal chance for a person.</p>
