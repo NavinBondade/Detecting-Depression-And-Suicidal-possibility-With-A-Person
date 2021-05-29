@@ -31,6 +31,12 @@
 <p>The model has trained for 150 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer and uses categorical
 cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
 <h2>Model Analysis</h2>
+<p align="center">
+<img src="https://github.com/NavinBondade/Determining-Depression-And-Suicidal-Possibility-With-A-Person/blob/main/Graphs%20%26%20Pictures/Loss.png">
+</p> 
+<p align="center">
+<img src="https://github.com/NavinBondade/Determining-Depression-And-Suicidal-Possibility-With-A-Person/blob/main/Graphs%20%26%20Pictures/Accuracy.png">
+</p> 
 <ul>
   <li><b>Accuracy Train Data: 86%</b></li>
   <li><b>Loss Train Data: 0.32</b></li> 
