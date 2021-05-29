@@ -25,3 +25,5 @@
 <p align="center">
 <img src="https://github.com/NavinBondade/Determining-Depression-And-Suicidal-Possibility-With-A-Person/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Target%20Variable%20In%20Percentage.png">
 </p> 
+<h2>Model Details</h2>
+<p>For the identification of depression and suidewatch within the text, I have created a deep learning model that uses convolution and fully connected neural network layers. The model uses two layers of one dimension convolutional neural networks for feature extraction and three fully connected neural network layers for decision making.  All the layers use RELU as an activation function except the last dense layer that uses the softmax activation function.</p>
