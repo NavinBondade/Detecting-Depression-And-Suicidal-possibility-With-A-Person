@@ -30,3 +30,10 @@
 <h2>Model Traning</h2>
 <p>The model has trained for 150 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer and uses categorical
 cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
+<h2>Model Analysis</h2>
+<ul>
+  <li><b>Accuracy Train Data: 86%</b></li>
+  <li><b>Loss Train Data: 0.32</b></li> 
+  <li><b>Accuracy Test Data: 76%</b></li>
+  <li><b>Loss Test Data: 0.57</b></li>
+</ul>
