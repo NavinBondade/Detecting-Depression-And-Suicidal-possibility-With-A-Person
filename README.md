@@ -27,3 +27,6 @@
 </p> 
 <h2>Model Details</h2>
 <p>For the identification of depression and suidewatch within the text, I have created a deep learning model that uses convolution and fully connected neural network layers. The model uses two layers of one dimension convolutional neural networks for feature extraction and three fully connected neural network layers for decision making.  All the layers use RELU as an activation function except the last dense layer that uses the softmax activation function.</p>
+<h2>Model Traning</h2>
+<p>The model has trained for 150 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer and uses categorical
+cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
