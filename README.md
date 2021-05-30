@@ -1,4 +1,9 @@
 # Detecting Depression And Suicidal Possibility With A Person With Deep Learning
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Determining-Depression-And-Suicidal-Possibility-With-A-Person/blob/main/Notebook/Determining_Whether_A_Person_In_Depression_Or_Will_Commit_Suicide.ipynb" target="_blank">
+  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
+</a>
+</p>
 <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/08/suicide-1565847830.jpg" width="950" height="520">
 <p>Depression is one of the most common mental illnesses in the world, WHO estimates that more than 300 million people worldwide suffer from depression. Depression is also a leading reason behind people commenting suicide. To tackle this problem and prevent it from happening here I have created a Natura Language System powered by Deep Learning that identifies depression and the suicidal chance for a person.</p>
 <h2>Libraries Used</h2>
