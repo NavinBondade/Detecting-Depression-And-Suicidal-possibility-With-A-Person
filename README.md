@@ -31,10 +31,17 @@
 <img src="https://github.com/NavinBondade/Determining-Depression-And-Suicidal-Possibility-With-A-Person/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Target%20Variable%20In%20Percentage.png">
 </p> 
 <h2>Model Details</h2>
-<p>For the identification of depression and suidewatch within the text, I have created a deep learning model that uses convolution and fully connected neural network layers. The model uses two layers of one dimension convolutional neural networks for feature extraction and three fully connected neural network layers for decision making.  All the layers use RELU as an activation function except the last dense layer that uses the softmax activation function.</p>
+<p>To identify signs of depression and suicide risk within text, I developed a sophisticated deep learning model that integrates convolutional neural networks (CNNs) with fully connected neural network layers. The architecture is designed to effectively extract and analyze textual features that are indicative of these mental health concerns. The model employs two layers of one-dimensional CNNs, which are adept at capturing relevant patterns and features from the text data. These convolutional layers serve as the foundation for feature extraction, enabling the model to discern subtle cues that may signal depression or suicidal intent.
+</p>
+<p>Following the convolutional layers, the model incorporates three fully connected neural network layers that are responsible for making the final decision regarding the presence of depression or suicide risk. The ReLU activation function is utilized in all layers except the final dense layer, which employs the softmax activation function. This configuration allows the model to output probabilities that can be interpreted as the likelihood of the text belonging to a particular risk category, ensuring accurate and reliable predictions.</p>
 <h2>Model Traning</h2>
-<p>The model has trained for 150 epochs. During training, the model uses Stochastic Gradient Descent as an optimizer and uses categorical
-cross-entropy as the loss function to penalize the model more when it makes a false prediction.</p>
+<p>
+
+The model has undergone training for a total of 150 epochs. During this process, Stochastic Gradient Descent (SGD) has been employed as the optimization algorithm. SGD is renowned for its efficiency in updating the model parameters iteratively with each training example, enhancing convergence speed and reducing computational overhead.
+
+The categorical cross-entropy function has been utilized as the loss function, which is integral for penalizing incorrect predictions. This loss function calculates the discrepancy between the predicted probability distribution and the true class labels. By assigning a higher penalty to inaccurate predictions, categorical cross-entropy facilitates improved model performance by emphasizing the importance of accurate classification.
+
+In summary, the combination of SGD and categorical cross-entropy ensures that the model not only converges efficiently but also achieves high accuracy by significantly penalizing false predictions and adjusting parameters accordingly throughout the training process.</p>
 <h2>Model Analysis</h2>
 <p align="center">
 <img src="https://github.com/NavinBondade/Determining-Depression-And-Suicidal-Possibility-With-A-Person/blob/main/Graphs%20%26%20Pictures/Loss.png">
