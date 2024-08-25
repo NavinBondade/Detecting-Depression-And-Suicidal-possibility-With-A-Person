@@ -5,7 +5,7 @@
 </a>
 </p>
 <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/08/suicide-1565847830.jpg" width="950" height="520">
-<p>Depression is one of the most common mental illnesses in the world, WHO estimates that more than 300 million people worldwide suffer from depression. Depression is also a leading reason behind people commenting suicide. To tackle this problem and prevent it from happening here I have created a Natura Language System powered by Deep Learning that identifies depression and the suicidal chance for a person.</p>
+<p>Depression is recognized as one of the most prevalent mental health disorders globally, affecting over 300 million individuals, according to estimates by the World Health Organization (WHO). It is also a significant contributing factor to suicide, which underscores the critical need for effective intervention strategies. To address this pressing issue, I have developed a sophisticated Natural Language Processing (NLP) system powered by advanced Deep Learning techniques. This system is designed to accurately identify signs of depression and assess the potential risk of suicidal behavior in individuals. By leveraging the latest advancements in artificial intelligence, this tool aims to provide early detection and intervention, thereby helping to prevent the tragic outcomes associated with untreated depression.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
